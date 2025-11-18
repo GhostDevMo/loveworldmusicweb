@@ -1,0 +1,19 @@
+﻿{
+  "ads": [
+    {
+      "image_url": "https://loveworldworship.com/worship/ads/1.png",
+      "link_url": "https://yourdomain.com/promo1",
+      "title": "New Album Out Now!"
+    },
+    {
+      "image_url": "https://loveworldworship.com/worship/ads/2.png",
+      "link_url": "https://yourdomain.com/promo2",
+      "title": "Join Our Music Contest 🎵"
+    },
+    {
+      "image_url": "https://loveworldworship.com/worship/ads/3.png",
+      "link_url": "https://yourdomain.com/app",
+      "title": "Stream the Hottest Songs 🔥"
+    }
+  ]
+}
